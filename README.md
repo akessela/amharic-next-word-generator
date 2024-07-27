@@ -1,0 +1,1 @@
+# amharic-next-word-generator
